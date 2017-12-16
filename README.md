@@ -1,12 +1,12 @@
-<snippet>
-  <content><![CDATA[
-# ${1:OSBot Account Manager}
-This is a bare-bones open source account manager for the OSBot community.
+# Account Manager [![OSBot](http://www.osbot.org)]
+
+
 ## Installation
-Compile.
+- Compile.
+
 ## Usage
-This is mainly to support Tutorial Island scripts that are capable of running from command prompt.
+- Intended for use with CLI launched Tutorial Island scripts for the OSBot client.
+
 ## License
-Apache 2.0 -- Read the LICENSE.md for more information.
-]]></content>
-</snippet>
+
+[![Apache 2.0](https://www.apache.org/images/SupportApache-small.png)](https://www.apache.org/licenses/LICENSE-2.0)
