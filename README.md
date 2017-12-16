@@ -1,4 +1,4 @@
-# Account Manager [![OSBot]]
+# Account Manager [OSBot]
 
 
 ## Installation
