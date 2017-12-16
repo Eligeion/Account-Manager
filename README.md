@@ -1,4 +1,4 @@
-# Account Manager [![OSBot](http://www.osbot.org)]
+# Account Manager [![OSBot](http://www.osbot.org)](http://osbot.org/images/logo.png)
 
 
 ## Installation
