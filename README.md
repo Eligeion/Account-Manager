@@ -9,5 +9,4 @@ This is mainly to support Tutorial Island scripts that are capable of running fr
 ## License
 Apache 2.0 -- Read the LICENSE.md for more information.
 ]]></content>
-  <tabTrigger>readme</tabTrigger>
 </snippet>
